@@ -1,18 +1,28 @@
-# First-Year-Projects
-A collection of my programming exercises and projects during my freshman year at university
-## 💻 Technical Highlights
+# 🚀 First-Year C Programming Projects
+
+A comprehensive collection of programming exercises and projects developed during my freshman year at the **Industrial University of Ho Chi Minh City**. This repository documents my journey in mastering system-level programming.
+
+## 📌 Project Overview
+This repository contains various applications focusing on data structures, file processing, and system efficiency, including:
+* **Word Frequency Counter**: A tool that analyzes text files to identify and rank common vocabulary.
+* **Patient Record Management**: A structured system for handling medical data, billing, and search queries.
 
 ## 💻 Technical Implementation & Core Concepts
-This project serves as a practical application of fundamental **Computer Science** concepts using the **C programming language**:
-### 🔹 Data Modeling with `Structs`
-- Designed a custom `struct` to encapsulate book attributes such as **Title**, **Author**, **Price**, and **ID**.
-- This approach ensures data integrity and follows clean code principles by grouping related variables.
 
-### 🔹 Memory Management with `Pointers`
-- Leveraged **Pointers** to pass data by reference to functions, reducing memory overhead and allowing direct modification of data.
-- Practiced pointer arithmetic and memory addressing to understand how C interacts with the hardware.
+### 🔹 Advanced Data Modeling with `structs`
+* **Structured Record Management**: Developed complex `struct` definitions to handle diverse data types, such as patient records and linguistic statistics.
+* **Data Integrity**: Applied encapsulation principles to maintain data consistency when passing information across various processing functions.
 
-### 🔹 Algorithmic Logic & Control Flow
-- Implemented **Switch-Case** statements to build an interactive User Interface (Menu-driven).
-- Developed search and filter algorithms using loops and conditional logic (`if-else`) to manage the book database.
+### 🔹 Dynamic Memory Management
+* **Heap Allocation**: Proficiently utilized `malloc()` and `free()` for dynamic memory allocation, allowing programs to handle large datasets efficiently.
+* **Pointer Expertise**: Leveraged pointers for pass-by-reference and direct memory manipulation to enhance execution speed.
 
+[Image of C memory layout showing heap and stack]
+
+### 🔹 File I/O & Data Parsing
+* **Stream Processing**: Managed data streams from text files using `fgets()` and `fscanf()` for robust data handling.
+* **Pattern Matching**: Implemented advanced parsing techniques (e.g., `%[^,]`) to analyze structured data formats like CSV files.
+
+### 🔹 Algorithmic Logic & String Manipulation
+* **String Tokenization**: Utilized `strtok()` and `<string.h>` library functions to clean and process raw textual data.
+* **Sorting & Analysis**: Implemented sorting algorithms to extract critical insights, such as identifying top-frequency elements.
