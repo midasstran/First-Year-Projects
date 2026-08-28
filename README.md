@@ -1,4 +1,4 @@
-# 🚀 First-Year C Programming Projects
+# 🚀  C Programming Projects
 
 A comprehensive collection of programming exercises and projects developed during my freshman year at the **Industrial University of Ho Chi Minh City**. This repository documents my journey in mastering system-level programming.
 
